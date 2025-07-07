@@ -45,12 +45,16 @@ webbrowser
 pyaudio
 datetime
 
+password: 1122
+
 Run the assistant:
 
 
 #run 
 
 python main.py
+
+author: Ali Shan Panosta
 
 
 mail: alishanpansota49@gmail.com
